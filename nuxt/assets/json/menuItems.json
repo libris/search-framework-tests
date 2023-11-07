@@ -1,0 +1,8 @@
+[
+  { "href": "/", "label": "Sök i Libris" },
+  { "href": "/subjects", "label": "Bläddra ämnesvis" },
+  { "href": "/saved", "label": "Sparat", "shortcut": true },
+  { "href": "/login", "label": "Logga in", "shortcut": true },
+  { "href": "/en", "label": "In English", "shortcut": true },
+  { "href": "/help", "label": "Help", "shortcut": true }
+]
