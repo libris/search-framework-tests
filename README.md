@@ -6,7 +6,9 @@ The functionality should be more or less the same in both the implementations (c
 
 
 ## Build and preview apps
-Change directory to `nuxt` or `svelte`
+First go to the `lxljs` directory and run `npm install`.
+
+Then change directory to `nuxt` or `svelte`
 
 Add a `.env` file in the same folder (see `.env.example` for reference).
 
